@@ -1,4 +1,5 @@
 # 🏨 Hostel Accounting System
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A simple SQL-based hostel management database that tracks student details, room allocations, payments, fees, and expenses.
 
