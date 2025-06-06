@@ -44,6 +44,10 @@ A simple SQL-based hostel management database that tracks student details, room 
 - Add triggers and procedures for validations.
 - Add login functionality for admins.
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ---
 
 ## 🙌 Author
